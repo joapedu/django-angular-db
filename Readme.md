@@ -5,4 +5,4 @@
  
  - :dart: Get organized with tasks that change status as they are done.
 
- - Go to [My Website](https://presentation-letter-xi.vercel.app/) to see my Cover Letter, or see my [portfolio in portuguese](https://joao-eduardo-portfolio.vercel.app) or [portfolio in english](https://portfolio-en-six.vercel.app/).
+ - 🤖 If you want, see my [portfolio in portuguese](https://joao-eduardo-portfolio.vercel.app) or [portfolio in english](https://portfolio-en-six.vercel.app/) I would be grateful.
