@@ -1,8 +1,8 @@
 version: '3.3'
 
 services:
-  angular-docker:
-    container_name: angular-docker-container
+  teste-angular:
+    image: teste-angular 
     build: .
     ports:
       - '8081:8081'
