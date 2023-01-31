@@ -1,13 +1,12 @@
-FROM node:alpine
+FROM node:lastest as angular
 
-LABEL maintainer="João Eduardo Braga <joaoeduardobraga2@gmail.com>"
+LABEL maintainer="João Eduardo Braga <joaoeduardobraga2@gmail.com>" 
 
 WORKDIR /app
 
-COPY . .
 
-RUN npm install -g @angular/cli
 
-EXPOSE 8081
 
-CMD [ "ng","serve","--port","8081" ]
+CMD [ "npm", "run", "start" ]
+
+
