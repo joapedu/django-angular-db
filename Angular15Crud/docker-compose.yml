@@ -2,7 +2,7 @@ version: '3.3'
 
 services:
   teste-angular:
-    image: teste-angular 
-    build: .
+    image: joapedu/angular15-crud:v1 
+    container_name: angular15-crud
     ports:
-      - '8081:8081'
+      - '8099:80'
